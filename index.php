@@ -29,6 +29,7 @@ if (empty($_POST)) {
                 'patronymic' => 'Сергеевич',
                 'lastName' => 'Морозов',
                 'customerComment' => 'тестовое задание',
+                'managerComment' => 'https://github.com/MorozovAlex/retailCrm',
                 'items' => [
                     [
                         'offer' => [
